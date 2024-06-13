@@ -1,2 +1,4 @@
 .DS_Store
 train/data/news-portal-user-interactions-by-globocom
+train/notebooks/clicks.csv
+train/data/csv/df.csv

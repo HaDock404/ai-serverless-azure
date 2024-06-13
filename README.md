@@ -6,7 +6,7 @@ This is a machine learning project to train a content recommendation model using
 
 ## Description  
 
-Described here your project
+Wait, i'm just starting this project for the moment
 
 #### You can download data from this [link](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/AI+Engineer/Project+9+-+R%C3%A9alisez+une+application+mobile+de+recommandation+de+contenu/news-portal-user-interactions-by-globocom.zip)
 
