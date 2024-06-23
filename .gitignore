@@ -2,3 +2,4 @@
 train/data/news-portal-user-interactions-by-globocom
 train/notebooks/clicks.csv
 train/data/csv/df.csv
+train/data/csv/*
